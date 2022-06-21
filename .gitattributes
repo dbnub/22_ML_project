@@ -1,1 +1,1 @@
-*.html linguist-detectable=false
+src/XAI/*.html linguist-detectable=false
